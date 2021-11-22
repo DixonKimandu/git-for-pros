@@ -1,2 +1,2 @@
 # git-for-pros
-Git to practice Git commands
+Repo to practice Git commands
